@@ -27,10 +27,4 @@
     NSLog(@"输出内容");
 }
 
--(void) testNo2Rertuer{
-    
-    
-    NSLog(@"这是第二份分支");
-    
-}
 @end
