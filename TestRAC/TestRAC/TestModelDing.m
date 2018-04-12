@@ -9,5 +9,9 @@
 #import "TestModelDing.h"
 
 @implementation TestModelDing
-
+-(void) testDing{
+    
+    NSLog(@"degnegn");
+    
+}
 @end
