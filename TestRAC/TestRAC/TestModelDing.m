@@ -14,4 +14,10 @@
     NSLog(@"degnegn");
     
 }
+
+-(void) test2{
+    
+    NSLog(@"CESHI 33333");
+}
+
 @end
