@@ -17,6 +17,7 @@
 		631619292064B986007F1B37 /* DataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 631619282064B986007F1B37 /* DataModel.m */; };
 		632992A9207CAB0200CD1F76 /* UIButton+Delay.m in Sources */ = {isa = PBXBuildFile; fileRef = 632992A6207CAB0100CD1F76 /* UIButton+Delay.m */; };
 		632992AA207CAB0200CD1F76 /* UIButton+touch.m in Sources */ = {isa = PBXBuildFile; fileRef = 632992A8207CAB0100CD1F76 /* UIButton+touch.m */; };
+		63F77335207F6E58008AD627 /* TestModelDing.m in Sources */ = {isa = PBXBuildFile; fileRef = 63F77334207F6E58008AD627 /* TestModelDing.m */; };
 		CE684D40420C7060454B61F9 /* libPods-TestRAC.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 14791087FFD629E8D67CBC4C /* libPods-TestRAC.a */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +42,8 @@
 		632992A6207CAB0100CD1F76 /* UIButton+Delay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Delay.m"; sourceTree = "<group>"; };
 		632992A7207CAB0100CD1F76 /* UIButton+touch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+touch.h"; sourceTree = "<group>"; };
 		632992A8207CAB0100CD1F76 /* UIButton+touch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+touch.m"; sourceTree = "<group>"; };
+		63F77333207F6E58008AD627 /* TestModelDing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestModelDing.h; sourceTree = "<group>"; };
+		63F77334207F6E58008AD627 /* TestModelDing.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestModelDing.m; sourceTree = "<group>"; };
 		E7A0B09E79A9E997315C7355 /* Pods-TestRAC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestRAC.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestRAC/Pods-TestRAC.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,6 +111,8 @@
 				631619252063B9AB007F1B37 /* LogInSercie.m */,
 				631619272064B986007F1B37 /* DataModel.h */,
 				631619282064B986007F1B37 /* DataModel.m */,
+				63F77333207F6E58008AD627 /* TestModelDing.h */,
+				63F77334207F6E58008AD627 /* TestModelDing.m */,
 			);
 			path = TestRAC;
 			sourceTree = "<group>";
@@ -256,6 +261,7 @@
 				6316190920639B31007F1B37 /* ViewController.m in Sources */,
 				6316191420639B31007F1B37 /* main.m in Sources */,
 				6316190620639B31007F1B37 /* AppDelegate.m in Sources */,
+				63F77335207F6E58008AD627 /* TestModelDing.m in Sources */,
 				632992AA207CAB0200CD1F76 /* UIButton+touch.m in Sources */,
 				632992A9207CAB0200CD1F76 /* UIButton+Delay.m in Sources */,
 			);
