@@ -14,4 +14,9 @@
     NSLog(@"degnegn");
     
 }
+
+-(void)test2{
+    
+    NSLog(@"输出内容");
+}
 @end
