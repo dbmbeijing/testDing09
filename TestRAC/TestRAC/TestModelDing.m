@@ -15,9 +15,16 @@
     
 }
 
--(void) test2{
+
+-(void) test4{
     
     NSLog(@"CESHI 33333");
+}
+
+
+-(void)test2{
+    
+    NSLog(@"输出内容");
 }
 
 @end
