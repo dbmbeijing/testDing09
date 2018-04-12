@@ -27,6 +27,7 @@
     self.window.rootViewController = nav;
     [self.window makeKeyAndVisible];
     
+    // 测试修改了这个字段
     return YES;
 }
 
